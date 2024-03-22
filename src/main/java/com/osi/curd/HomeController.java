@@ -8,6 +8,6 @@ public class HomeController {
 
 	@GetMapping("/gitWelcome")
 	public String gitWelcome() {
-		return "Git welcome";
+		return "Git welcome123";
 	}
 }
